@@ -1,11 +1,3 @@
----
-title: Responsible AI
-emoji: 💻
-colorFrom: yellow
-colorTo: indigo
-sdk: docker
-pinned: false
-license: mit
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+## Midterm Challenge Application
+### J. Michael Dean (Mike Dean)
+Contains all the files except the .env file for ResponsibleAI application on Hugging Face.
